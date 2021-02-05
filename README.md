@@ -7,7 +7,9 @@ Abra [JogoDaVelha.js](https://github.com/obertobr/JogoDaVelhaWhatsapp/blob/main/
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-va no Whatsapp Web e abras o console(F12 -> Aba Console)
+va em alguma conversa no Whatsapp Web
+
+abra o console(F12 -> Aba Console)
 
 Cole o código no console e aperte Enter
 
